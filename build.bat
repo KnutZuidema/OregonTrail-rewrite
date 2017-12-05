@@ -1,0 +1,1 @@
+kotlinc *.kt -include-runtime -d OregonTrailRewrite.jar
