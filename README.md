@@ -13,3 +13,9 @@ For playing:
 <code>java -jar OregonTrailRewrite.jar</code>
 
 or just use the start.bat on Windows (rename to .sh on UNIX-based OS)
+
+<h2>Build</h2>
+
+<code>kotlinc *.kt -include-runtime -d OregonTrailRewrite.jar</code>
+
+or jsut use the build.bat on Windows (rename to .sh on UNIX-based OS)
