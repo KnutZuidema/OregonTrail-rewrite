@@ -18,4 +18,4 @@ or just use the start.bat on Windows (rename to .sh on UNIX-based OS)
 
 <code>kotlinc *.kt -include-runtime -d OregonTrailRewrite.jar</code>
 
-or jsut use the build.bat on Windows (rename to .sh on UNIX-based OS)
+or just use the build.bat on Windows (rename to .sh on UNIX-based OS)
